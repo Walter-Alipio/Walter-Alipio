@@ -1,5 +1,6 @@
 ### Hi everyone 👋 I'm Walter Alipio. Welcome to my jorney!
 
+- Systems Analysis and Development student.
 - 🌱 I’m currently learning the big three, html, css and js.
 - ⚡ Fun fact: I'm a kung fu instructor 🥋
 
