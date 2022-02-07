@@ -2,7 +2,7 @@
 
 - Systems Analysis and Development student.
 - 🌱 I’m currently learning the big three, html, css and js.
-- ⚡ Fun fact: I'm a kung fu instructor 🥋
+- ⚡ Fun fact: I'm a kung fu black belt 🥋
 
 <div align="center">
   <a href="https://github.com/Walter-Alipio">
