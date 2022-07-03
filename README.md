@@ -1,7 +1,7 @@
 ### Hi everyone 👋 I'm Walter Alipio. Welcome to my jorney!
 
 - Systems Analysis and Development student.
-- 🌱 I’m currently learning the big three, html, css and js.
+- 🌱 I’m currently learning React and Typescript.
 - ⚡ Fun fact: I'm a kung fu black belt 🥋
 
 <div align="center">
@@ -14,6 +14,8 @@
   <img align="center" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Typescript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
   
   
