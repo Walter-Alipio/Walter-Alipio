@@ -1,8 +1,9 @@
-### Hi everyone 👋 I'm Walter Alipio. Welcome to my jorney!
+### Hi everyone 👋 Meu nome é Walter Alipio.
 
-- Systems Analysis and Development student.
-- 🌱 I’m currently learning React and Typescript.
-- ⚡ Fun fact: I'm a kung fu black belt 🥋
+- Ex-instrutor de kung fu e tai chi chuan.
+- Graduando em Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente aprendendo mais sobre React e Typescript.
+- ⚡ Fun fact: Sou faixa preta 3º Tuen de Kung Fu Louva-Deus 🥋
 
 <div align="center">
   <a href="https://github.com/Walter-Alipio">
