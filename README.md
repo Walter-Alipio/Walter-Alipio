@@ -1,4 +1,4 @@
-### Hi everyone 👋 Meu nome é Walter Alipio.
+### Hi everyone 👋 Meu nome é Walter.
 
 - Ex-instrutor de kung fu e tai chi chuan.
 - Graduando em Análise e Desenvolvimento de Sistemas.
