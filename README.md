@@ -1,7 +1,7 @@
 ### Hi everyone 👋 Meu nome é Walter.
 
 - Graduando em Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente aprendendo mais sobre React e Typescript.
+- 🌱 Atualmente aprendendo C# e .NET no mundo Linux.
 - Ex-instrutor de kung fu e tai chi chuan.
 - ⚡ Fun fact: Sou faixa preta 3º Tuen de Kung Fu Louva-Deus 🥋
 
