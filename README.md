@@ -1,4 +1,4 @@
-### Ol 👋 Meu nome é Walter.
+### Ola 👋 Meu nome é Walter.
 
 - Graduando em Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente aprendendo C# e .NET no mundo Linux.
