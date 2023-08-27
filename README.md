@@ -1,8 +1,7 @@
 ### Meu nome é Walter.
 
-- Graduando em Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente aprendendo C# e .NET no mundo Linux.
-- Ex-instrutor de kung fu e tai chi chuan.
+- Formado em Análise e Desenvolvimento de Sistemas.
+- Desenvolvedor Jr C# ( .NET/Asp.Net ).
 - ⚡ Fun fact: Sou faixa preta 3º Tuen de Kung Fu Louva-Deus 🥋
 
 <div align="center">
