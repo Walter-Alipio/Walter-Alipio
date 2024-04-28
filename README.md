@@ -1,7 +1,7 @@
 ### Meu nome é Walter.
 
 - Formado em Análise e Desenvolvimento de Sistemas.
-- Desenvolvedor Jr C# ( .NET/Asp.Net ).
+- Desenvolvedor C# ( .NET/Asp.Net ).
 - ⚡ Fun fact: Sou faixa preta 3º Tuen de Kung Fu Louva-Deus 🥋
 
 <div align="center">
