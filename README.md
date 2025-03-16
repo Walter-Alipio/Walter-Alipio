@@ -2,7 +2,7 @@
 
 - Formado em Análise e Desenvolvimento de Sistemas.
 - Desenvolvedor C# ( .NET/Asp.Net ).
-- ⚡ Fun fact: Sou faixa preta 3º Tuen de Kung Fu Louva-Deus 🥋
+- ⚡ Fun fact: Sou faixa preta 4º Tuen de Kung Fu Louva-Deus 🥋
 
 <div align="center">
   <a href="https://github.com/Walter-Alipio">
